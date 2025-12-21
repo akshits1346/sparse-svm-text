@@ -1,10 +1,5 @@
-| L1 | F1 |
-|----|----|
-| 0.0 | 0.58 |
-| 0.001 | 0.61 |
-| 0.01 | 0.54 |
-
-Observation:
-Moderate sparsity improved generalization,
-while excessive sparsity hurt performance.
-
+| L1 Lambda | F1 Score | Accuracy | Sparsity |
+|----------|----------|----------|----------|
+| 0.0 | 0.98 | 0.98 | 0.00 |
+| 0.001 | 0.96 | 0.96 | 0.00 |
+| 0.01 | 0.85 | 0.86 | 0.00 |
